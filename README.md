@@ -4,8 +4,6 @@ This project demonstrates how to use method channels for native integrations for
 
 The link to the article is down below 
 
-https://github.com/Raks-Javac/Sample-Method-Channel-Implementation
-
-
+[Medium Article Link](https://medium.com/@rufaikudus2014/method-channels-in-flutter-for-native-code-interaction-15bfe6133ef5)
 
 
